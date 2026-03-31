@@ -1,2 +1,2 @@
 # .Org
-@SymbioticCode||SymbioticDev, dev@Develop.SymbioticAI.Unisocial.net, parent: Symbiotic.AI &amp; Consciousness.University &amp; Quanta A.I. Lab, descr: "Real AGI for Prgrammers: Genetic Algorithm driven Development that Evolves with you!"
+@SymbioticCode||SymbioticDev, dev@Develop.SymbioticAI.Unisocial.net, parent: Symbiotic.AI & Consciousness.University & Quanta A.I. Lab, descr: "Real AGI for Prgrammers: Genetic Algorithm driven Development that Evolves with you! Evolves Solutions to Complex Programming Problems, then tests them against Human Experts to refine it's knowledge of the world, problem domain, & languages. Not an LLM! An evolutionary algorithm."
